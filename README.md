@@ -72,7 +72,7 @@ anywhere until you press the button, and the AI never creates, changes or delete
 | **System** | Windows 10 or Windows 11, 64-bit |
 | **Disk space** | about 200 MB for the app, plus room for your own notes and saved articles |
 | **Memory** | 4 GB of RAM recommended |
-| **Component** | Microsoft Edge WebView2 Runtime. Windows 11 and up-to-date Windows 10 already have it. |
+| **Component** | Microsoft Edge WebView2 Runtime. Windows 11 and up-to-date Windows 10 already have it; if yours does not, the installer installs it for you (internet needed at that moment). |
 | **Internet** | Not needed to use the app. Only for saving articles, the AI button and checking for updates. |
 
 macOS and Linux are not supported yet.
