@@ -1,12 +1,12 @@
 {
-  "version": "0.1.4",
-  "url": "https://github.com/cjsrodrigues/vixnotes-releases/releases/download/v0.1.4/VixNotes-Setup-0.1.4.exe",
-  "sha256": "364e084150c0b1366233ec6865d568c9b088279171b77f2f41b8b651cbbd2c49",
-  "size": 71665944,
+  "version": "0.1.5",
+  "url": "https://github.com/cjsrodrigues/vixnotes-releases/releases/download/v0.1.5/VixNotes-Setup-0.1.5.exe",
+  "sha256": "c90399155353da35e29e22587f4c0e38664f78c724fb538031d0ad2cf58328fe",
+  "size": 73409905,
   "notes": {
-    "en": "Test release to try the automatic update. Nothing else changed.",
-    "pt-BR": "Versão de teste para experimentar a atualização automática. Nada mais mudou."
+    "en": "Update bar moved to the bottom and now says the app will close and reopen. The installer installs the WebView2 Runtime when it is missing. Sign-in fixes.",
+    "pt-BR": "Barra de atualização embaixo, avisando que o app vai fechar e abrir de novo. O instalador instala o WebView2 Runtime quando ele falta. Correções no login."
   },
   "published": "2026-10-27",
-  "signature": "t3PFcr2vx/a+psqKlvRhQ6JE0spPdUaHfzF6SNjv/OebrHyRDXaKuypaLaBgOaYpwaKqSXFBvKjyxm1UGEW7Aw=="
+  "signature": "r8xX6Xk2GBfwKj4BmDeE8iUGrEcz6LkGfHGrygEeqKz6wtwWNswnF9BuNIGAlzJ9Ln2VYH736Qyz6ak+0McSBg=="
 }
