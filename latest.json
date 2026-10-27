@@ -1,0 +1,12 @@
+{
+  "version": "0.1.4",
+  "url": "https://github.com/cjsrodrigues/vixnotes-releases/releases/download/v0.1.4/VixNotes-Setup-0.1.4.exe",
+  "sha256": "364e084150c0b1366233ec6865d568c9b088279171b77f2f41b8b651cbbd2c49",
+  "size": 71665944,
+  "notes": {
+    "en": "Test release to try the automatic update. Nothing else changed.",
+    "pt-BR": "Versão de teste para experimentar a atualização automática. Nada mais mudou."
+  },
+  "published": "2026-10-27",
+  "signature": "t3PFcr2vx/a+psqKlvRhQ6JE0spPdUaHfzF6SNjv/OebrHyRDXaKuypaLaBgOaYpwaKqSXFBvKjyxm1UGEW7Aw=="
+}
